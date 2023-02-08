@@ -6,4 +6,3 @@ Added main.py
 
 Some small modifications
 
-Visual Studio Code
